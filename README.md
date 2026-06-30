@@ -1,11 +1,15 @@
 ## Hi there 👋 I am Vijetha Asam
-- SDET & AI Engineer with experience in Selenium automation and REST API testing
-- Worked on chatbot development and AI-based applications
-- Building no-code AI applications using LLMs and automation workflows
-- Skilled in test automation frameworks and API testing tools
-- Interested in Generative AI, RAG systems, and intelligent automation
-- Actively learning new technologies and AI development tools
-- Looking to contribute to AI-driven product development projects
+## 💼 About Me
+SDET with 3+ years of experience in Selenium, Java, API testing and AI-based automation projects.
+
+## 🛠 Skills
+- Selenium WebDriver
+- Rest Assured
+- TestNG, Cucumber
+- Python, Java
+- API Testing
+- LLM, RAG, AI Chatbots
+
 
 ----------------------------------------------------------------------
 ## 🛠 Tech Stack
@@ -22,25 +26,30 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
+### 📋 Test Management & Agile
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+---
 ## 🧪 [Selenium Automation Framework (BDD with Cucumber)](https://github.com/vijetha-asam/NinjaTesters_BDD.git)
 
 - Built using Cucumber BDD framework
 - Test cases written in Gherkin feature files
-- Performed end-to-end, functional, non-functional, and cross-browser testing
-- Implemented Page Object Model (POM) design pattern
-- Generated Allure Cucumber reports and HTML reports for test execution analysis
-- Integrated CI/CD pipeline for automated execution
+- Page Object Model (POM) design
+- Data-driven testing
+- Cross-browser testing support
+- Parallel test execution
+- HTML / Extent reports
+- CI integration with Jenkins
+
 ---
 ## 🔗 [Postman API Testing Collection](https://github.com/vijetha-asam/Team22_Phase1_APIalchemist.git)
 
 
 ## 🚀 Key Highlights
-- Created reusable **Postman Collections**
-- Automated API test cases using **Postman Scripts (JavaScript)**
+- Created reusable **Postman Collections** for RESTful API testing
 - Validated **status codes, response body, and headers**
 - Performed **functional API testing**
-- Implemented **environment variables for dynamic testing**
-- Used **collection runner for batch execution**
+- Executed Collections using Newman through Jenkins and generated HTML reports for test execution results
 
 ---
 
@@ -50,7 +59,7 @@
 - Response validation  
 - Data-driven API testing  
 ---
-## 🔗 [REST Assured API Automation Framework](https://github.com/vijetha-asam/create_api.git)
+## 🔗 [REST Assured API Automation Framework](https://github.com/shreyadas1421/RestAssured.git)
 
 This project is an API automation testing framework built using **REST Assured in Java**.
 ## 🚀 Key Highlights
@@ -62,7 +71,17 @@ This project is an API automation testing framework built using **REST Assured i
 - Designed reusable utility methods for API requests 
 
 ---
-### 📋 Test Management & Agile
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## 📫 Connect with Me
+
+- LinkedIn (www.linkedin.com/in/vijetha-asam-14091a314)
+- [GitHub](https://github.com/vijetha-asam)
+
 ---
+## 📚 Publications
+### 📄 End-to-End API Testing with Postman
+- 🔗 [Read Publication](https://medium.com/@vijetha.asam/end-to-end-api-testing-with-postman-5d4c04d18eaa)
+### 📄 Rest Assured with Cucumber BDD API Automation
+- 🔗 [Read Publication](https://www.numpyninjaacademy.com/post/rest-assured-with-cucumber-bdd-api-automation)
+### 📄 Assertions in Postman with Chai Assertion Library
+- 🔗 [Read Publication](https://www.numpyninjaacademy.com/post/assertions-in-postman-with-chai-assertion-library)
+
