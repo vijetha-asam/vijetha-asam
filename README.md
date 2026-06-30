@@ -1,3 +1,5 @@
+![Portfolio Banner](https://user-images.githubusercontent.com/74038190/212747761-6d6b9c2a-1c18-4b2c-8f2d-7d8f0c9b9a2a.gif)
+
 ## Hi there 👋 I am Vijetha Asam
 ## 💼 About Me
 SDET with 3+ years of experience in Selenium, Java, API testing and AI-based automation projects.
