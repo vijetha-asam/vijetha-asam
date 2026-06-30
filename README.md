@@ -21,7 +21,9 @@ SDET with 3+ years of experience in Selenium, Java, API testing and AI-based aut
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-009688?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -30,6 +32,7 @@ SDET with 3+ years of experience in Selenium, Java, API testing and AI-based aut
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ---
+## 🚀 Projects
 ## 🧪 [Selenium Automation Framework (BDD with Cucumber)](https://github.com/vijetha-asam/NinjaTesters_BDD.git)
 
 - Built using Cucumber BDD framework
@@ -73,9 +76,8 @@ This project is an API automation testing framework built using **REST Assured i
 ---
 ## 📫 Connect with Me
 
-- LinkedIn (www.linkedin.com/in/vijetha-asam-14091a314)
+- LinkedIn(www.linkedin.com/in/vijetha-asam-14091a314)
 - [GitHub](https://github.com/vijetha-asam)
-
 ---
 ## 📚 Publications
 ### 📄 End-to-End API Testing with Postman
